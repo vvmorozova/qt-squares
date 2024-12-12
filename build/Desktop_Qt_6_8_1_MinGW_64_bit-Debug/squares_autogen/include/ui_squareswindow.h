@@ -46,7 +46,7 @@ public:
     {
         if (SquaresWindow->objectName().isEmpty())
             SquaresWindow->setObjectName("SquaresWindow");
-        SquaresWindow->resize(501, 459);
+        SquaresWindow->resize(598, 459);
         centralwidget = new QWidget(SquaresWindow);
         centralwidget->setObjectName("centralwidget");
         pushButton_0 = new QPushButton(centralwidget);
@@ -87,17 +87,17 @@ public:
         timeLabel->setGeometry(QRect(350, 70, 71, 16));
         timeShowLabel = new QLabel(centralwidget);
         timeShowLabel->setObjectName("timeShowLabel");
-        timeShowLabel->setGeometry(QRect(350, 90, 71, 16));
+        timeShowLabel->setGeometry(QRect(350, 90, 201, 16));
         tempLabel = new QLabel(centralwidget);
         tempLabel->setObjectName("tempLabel");
         tempLabel->setGeometry(QRect(350, 120, 131, 16));
         tempShowLabel = new QLabel(centralwidget);
         tempShowLabel->setObjectName("tempShowLabel");
-        tempShowLabel->setGeometry(QRect(350, 140, 71, 16));
+        tempShowLabel->setGeometry(QRect(350, 140, 141, 16));
         SquaresWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(SquaresWindow);
         menubar->setObjectName("menubar");
-        menubar->setGeometry(QRect(0, 0, 501, 22));
+        menubar->setGeometry(QRect(0, 0, 598, 22));
         SquaresWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(SquaresWindow);
         statusbar->setObjectName("statusbar");

@@ -4,6 +4,13 @@
 #include <QMainWindow>
 #include <QPushButton>
 #include <QRegularExpression>
+#include <QTimer>
+#include <QDateTime>
+#include <QNetworkAccessManager>
+#include <QNetworkRequest>
+#include <QNetworkReply>
+#include <QJsonDocument>
+#include <QJsonObject>
 
 #include <array>
 #include <vector>
@@ -43,10 +50,14 @@ private slots:
     void on_pushButton_6_clicked();
     void on_pushButton_7_clicked();
     void on_pushButton_8_clicked();
+    void updateTime();
+    void getWeatherData();
+    void onWeatherDataReceived(QNetworkReply *reply);
 
 private:
     Ui::SquaresWindow *ui;
     std::array<colorParams, 10> colors;
     colorParams remColor;
+    QNetworkAccessManager *manager;
 };
 #endif // SQUARESWINDOW_H

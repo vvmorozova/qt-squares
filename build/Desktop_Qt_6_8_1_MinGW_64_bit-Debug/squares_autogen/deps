@@ -8,12 +8,26 @@ squares_autogen/timestamp: \
 	C:/Users/jadoba/Documents/squares/main.cpp \
 	C:/Users/jadoba/Documents/squares/squareswindow.cpp \
 	C:/Users/jadoba/Documents/squares/squareswindow.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QDateTime \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QFlags \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QIODevice \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QJsonDocument \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QJsonObject \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QList \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QMetaType \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QObject \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/QRegularExpression \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QSharedDataPointer \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QString \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QTimer \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QUrl \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/QVariant \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/q20functional.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/q20iterator.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/q20memory.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/q20type_traits.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/q23utility.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/q26numeric.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qalgorithms.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qanystringview.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qarraydata.h \
@@ -23,11 +37,15 @@ squares_autogen/timestamp: \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qatomic.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qatomic_cxx11.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qbasicatomic.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qbasictimer.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qbindingstorage.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qbytearray.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qbytearraylist.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qbytearrayview.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qcalendar.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qcborcommon.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qcborvalue.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qchar.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qcompare.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qcompare_impl.h \
@@ -39,8 +57,10 @@ squares_autogen/timestamp: \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qcontainerinfo.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qcontainertools_impl.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qcontiguouscache.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qcryptographichash.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qdarwinhelpers.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qdatastream.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qdatetime.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qdebug.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qendian.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qexceptionhandling.h \
@@ -54,12 +74,17 @@ squares_autogen/timestamp: \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qglobalstatic.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qhash.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qhashfunctions.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qiodevice.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qiodevicebase.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qiterable.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qiterator.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qjsondocument.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qjsonobject.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qjsonvalue.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qlatin1stringview.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qline.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qlist.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qlocale.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qlogging.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qmalloc.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qmap.h \
@@ -114,6 +139,7 @@ squares_autogen/timestamp: \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtdeprecationmarkers.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtenvironmentvariables.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtextstream.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qtimer.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtmetamacros.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtnoop.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
@@ -124,7 +150,9 @@ squares_autogen/timestamp: \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtversionchecks.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtypeinfo.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qtypes.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/qurl.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qutf8stringview.h \
+	D:/Qt/6.8.1/mingw_64/include/QtCore/quuid.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qvariant.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qvarlengtharray.h \
 	D:/Qt/6.8.1/mingw_64/include/QtCore/qversiontagging.h \
@@ -155,6 +183,27 @@ squares_autogen/timestamp: \
 	D:/Qt/6.8.1/mingw_64/include/QtGui/qtransform.h \
 	D:/Qt/6.8.1/mingw_64/include/QtGui/qwindowdefs.h \
 	D:/Qt/6.8.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/QNetworkAccessManager \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/QNetworkReply \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/QNetworkRequest \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/QSslConfiguration \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qabstractsocket.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qhostaddress.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qhttpheaders.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qnetworkaccessmanager.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qnetworkreply.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qnetworkrequest.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qssl.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qsslcertificate.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qsslconfiguration.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qsslerror.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qsslsocket.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qtcpsocket.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qtnetwork-config.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
+	D:/Qt/6.8.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
 	D:/Qt/6.8.1/mingw_64/include/QtWidgets/QMainWindow \
 	D:/Qt/6.8.1/mingw_64/include/QtWidgets/QPushButton \
 	D:/Qt/6.8.1/mingw_64/include/QtWidgets/qabstractbutton.h \
@@ -276,6 +325,31 @@ squares_autogen/timestamp: \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkAdditionalTargetInfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkPlugins.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets-relwithdebinfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessAliasTargets.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginAdditionalTargetInfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginConfig.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets-relwithdebinfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginAdditionalTargetInfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginConfig.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets-relwithdebinfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginAdditionalTargetInfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginConfig.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets-relwithdebinfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginConfig.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake \
@@ -304,94 +378,31 @@ squares_autogen/timestamp: \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
 	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCompilerIdDetection.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineRCCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeNinjaFindMake.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseImplicitLinkInfo.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseLibraryArchitecture.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCCompiler.cmake.in \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystem.cmake.in \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCompilerCommon.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestRCCompiler.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CheckLibraryExists.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-FindBinUtils.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TI-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/FindPackageMessage.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/FindThreads.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/FindVulkan.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/CheckFlagCommonConfig.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake \
-	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Determine-CXX.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake \
 	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake \

@@ -56,6 +56,12 @@ SquaresWindow::SquaresWindow(QWidget *parent)
     }
     remColor = forRandomColors[0];
     ui->squaresShowLabel->setText("0");
+
+    QTimer *timer = new QTimer(this);
+    connect(timer, &QTimer::timeout, this, &SquaresWindow::updateTime);
+    timer->start(1000);
+
+    getWeatherData();
 }
 
 SquaresWindow::~SquaresWindow()
@@ -86,6 +92,36 @@ void SquaresWindow::changeColor(QPushButton **button)
     int num = ui->squaresShowLabel->text().toInt();
     num++;
     ui->squaresShowLabel->setText(QString::number(num));
+}
+
+void SquaresWindow::updateTime() {
+    QDateTime current = QDateTime::currentDateTime() ;
+    ui->timeShowLabel->setText("Time: " + current.toString());
+}
+
+void SquaresWindow::getWeatherData() {
+       manager = new QNetworkAccessManager(this);
+    connect(manager, &QNetworkAccessManager::finished, this, &SquaresWindow::onWeatherDataReceived);
+
+        QNetworkRequest request(QUrl("https://api.openweathermap.org/data/2.5/weather?q=Moscow&appid=21954df3f640eda548bf9e57b9e02630&units=metric"));
+    manager->get(request);
+}
+
+void SquaresWindow::onWeatherDataReceived(QNetworkReply *reply) {
+    if (reply->error() != QNetworkReply::NoError) {
+        qDebug() << "Error fetching weather data: " << reply->errorString();
+        return;
+    }
+
+        QByteArray data = reply->readAll();
+    QJsonDocument doc = QJsonDocument::fromJson(data);
+    QJsonObject obj = doc.object();
+    QJsonObject main = obj["main"].toObject();
+    double temperature = main["temp"].toDouble();
+
+    ui->tempShowLabel->setText("Temperature: " + QString::number(temperature) + "°C");
+
+    reply->deleteLater();
 }
 
 void SquaresWindow::on_pushButton_0_clicked()
